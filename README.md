@@ -2,7 +2,7 @@
 ### Education 
 Data Scientist 6 month Bootcamp, Data Sciences Data Scientist 
 Nov 2023 - Apr 2024Nov 2023 - Apr 2024
-Skills: pyndas · NumPy · Git · GitHub · Virtual Machines · Ubuntu · Machine Learning · Data Analysis · Data Science · Regular Expressions · Streamlit · TensorFlow
+Skills: panda · NumPy · Git · GitHub · Virtual Machines · Ubuntu · Machine Learning · Data Analysis · Data Science · Regular Expressions · Streamlit · TensorFlow
 
 TU Bergakademie Freiberg
 M. Sc. , Groundwater Management
